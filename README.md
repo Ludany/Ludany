@@ -1,3 +1,11 @@
+<div align="center">
+  <a href="https://github.com/ludany">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ludany&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludani&layout=compact&langs_count=7&theme=outrun"/>
+</div>
+
+
+
 <h2 align="center">Frontend</h2>
 <div align="center"> 
 <div align="center">  
@@ -27,4 +35,5 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="75" />
           
-</div>
+![snake gif](https://github.com/larissasn/larissasn/blob/output/github-contribution-grid-snake.svg)
+ </div>
