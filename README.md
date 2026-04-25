@@ -3,7 +3,7 @@
   💙🌊 **ludany** 🌊💙
 
   
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=35&pause=1000&color=87CEEB&center=true&vCenter=true&width=600&lines=Olá%2C+meu+amor+pelo+código+%F0%9F%92%BB;Brilha+nos+meus+olhos%2C+fogo+no+back-end+%F0%9F%94%A5;Bem-vinda+ao+meu+mundo+%F0%9F%8C%8A" alt="Typing SVG"/>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=35&pause=1000&color=87CEEB&center=true&vCenter=true&width=600&lines=Olá%2C+meu+amor+pelo+código+%F0%9F%92%BB;O+brilho+nos+olhos%2C+fogo+no+back-end+%F0%9F%94%A5;Bem-vinda+ao+meu+mundo+%F0%9F%8C%8A)](https://git.io/typing-svg)
 
   
   <br><br>
