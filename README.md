@@ -63,15 +63,6 @@
   <a href="https://linkedin.com/in/ludany">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://fullportf.netlify.app/">
-    <img src="https://img.shields.io/badge/Old_Portfolio-3498DB?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-  <a href="https://qadamboyev1.vercel.app/">
-    <img src="https://img.shields.io/badge/New_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://robocontest.uz/profile/ludany">
-    <img src="https://img.shields.io/badge/RoboContest-007ACC?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
 </p>
 
 ---
