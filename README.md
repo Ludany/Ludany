@@ -77,7 +77,9 @@
   <br>
   
   <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" width="90%">
-  
+
+
+  ![custom-dark](https://github.com/user-attachments/assets/7a7b9a79-76d8-4ae9-8222-ab7eb32638fd)
   <br>
   
   ✨ **Feita de linhas que encantam e soluções que realizam** ✨
